@@ -9,3 +9,6 @@ Push : 원격 Repository에 내 버전을 업로드
 Fetch : Poll 이전에 진행. 원격에 있는 버전을 내 컴퓨터로 불러옴.
 Poll : 원격 Repository에 있는 버전을 내 컴퓨터로 다운로드해서 적용
        높은 확률로 충돌남. -> 해결하고 다시 Push
+
+
+깃 설치: git 설치, 터미널 git, vscode 설치
